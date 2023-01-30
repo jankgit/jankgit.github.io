@@ -2,7 +2,7 @@
 
 Herzlich willkommen auf meiner Landing Page! Hier finden Sie alle Informationen über mich und meine Projekte.
 
-## Über mich
+## Über mich 
 
 Ich bin ein begeisterter Entwickler und liebe es, neue Technologien zu erkunden und Projekte zu realisieren. Ich habe in den Bereichen Web-Entwicklung und künstlicher Intelligenz gearbeitet und bin stets bestrebt, mein Wissen und meine Fähigkeiten zu erweitern.
 
