@@ -4,7 +4,7 @@
     <title>Landing Page</title>
     <style>
       body {
-        background-image: url('https://www.example.com/hawaii-background.jpg');
+        background-image: url('http://upforanything.net/wp-content/uploads/2013/06/Maui-Hamoa_Beach-creative-commons-e1370862063574.jpg');
         background-size: cover;
       }
       h1 {
